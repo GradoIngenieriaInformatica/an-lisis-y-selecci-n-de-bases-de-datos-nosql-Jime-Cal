@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+NoSQL | Este admite estructuras variables y metadatos flexibles, lo cual llega a ser muy funcional para almacenar artículos con versiones y campos no uniformes como se menciona en el enunciado.

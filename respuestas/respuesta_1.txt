@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+NoSql | Ya que permite analizar rutas óptimas y conexiones entre nodos mediante relaciones directas, lo cual llega a ser ideal para este tipo de situaciones.
+
