@@ -1,4 +1,2 @@
-Enunciado: Red de transporte donde se analizan rutas óptimas,conexiones entre nodos y caminos alternativos.
-
 NoSql | Ya que permite analizar rutas óptimas y conexiones entre nodos mediante relaciones directas, lo cual llega a ser ideal para este tipo de situaciones.
 

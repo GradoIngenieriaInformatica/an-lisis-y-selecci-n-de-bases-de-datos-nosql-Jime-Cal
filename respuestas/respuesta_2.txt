@@ -1,3 +1,1 @@
-Enunciado: CMS que almacena artículos con metadatos variables,versiones y estructuras no uniformes.
-
 NoSQL | Este admite estructuras variables y metadatos flexibles, lo cual llega a ser muy funcional para almacenar artículos con versiones y campos no uniformes como se menciona en el enunciado.

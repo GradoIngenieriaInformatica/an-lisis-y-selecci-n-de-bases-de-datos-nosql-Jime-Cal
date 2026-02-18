@@ -1,3 +1,1 @@
-Enunciado: Sistema de métricas de servidores con millones de registros indexados por fecha y hora.
-
 NoSQL | Se usaria esta ya que sirve llevar de manera optimizada grandes volúmenes de métricas indexadas por tiempo, facilitando consultas analíticas y agregaciones rápidas como se solicita en el enunciado.
